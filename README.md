@@ -1,8 +1,8 @@
-# iWallet Case Study
+#Case Study
 
 ## Overview
 Provide a brief description of your project here. Explain what iWallet is, its main features, and any other relevant information about your Flutter application.
-iwallet Flutter case study.
+Flutter case study.
 Lists users from link and images from another link via user's ids. 
 Opens pop-up when tap on user. And to close on tap cancel icon.
 Searches via username and lists users for searchword.
